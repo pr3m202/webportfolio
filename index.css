@@ -1,0 +1,43 @@
+body{
+font-family: Orbitron;
+}
+
+#navbarNav{
+	color: #FFFDA7;
+}
+
+#Home{
+	background: url(https://t4.ftcdn.net/jpg/01/63/61/53/360_F_163615394_d8VNpuO5Lv7TtoJxmXzuiLJVHAVbER1h.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;	
+	height: 75vh;
+}
+
+#ContactIcons{
+	height: 30px;
+	width: 30px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+#navhead{
+	background-color: #800000;
+}
+
+#Tools{
+	height: 50px;
+	width: 50px;
+}
+
+p{
+	color: wheat;
+}
+
+#googlemap{
+	height: 50vh;
+	width: 50vh;
+	background-color: black;
+}
+
